@@ -1,7 +1,7 @@
 Ola me chamo Igor!! <br>
 Sou desenvolvedor Web Full Stack
 <br>
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=IgorZibetti)
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-marcelo-6b083a205/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5541992314942)
